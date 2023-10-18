@@ -1,0 +1,11 @@
+.album{
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-gap: 10px;
+}
+
+.album img{
+
+	max-width: 100%;
+	height: auto;
+}
